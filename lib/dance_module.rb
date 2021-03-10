@@ -1,5 +1,4 @@
-class Dance 
-  include module
+module Dance
   
   def twirl 
   end
