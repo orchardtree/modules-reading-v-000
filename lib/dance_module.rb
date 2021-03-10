@@ -10,4 +10,7 @@ module Dance
   def pirouette
     "I'm doing a pirouette"
   end
+  
+  def
+  end
 end
