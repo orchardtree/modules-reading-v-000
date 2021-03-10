@@ -1,2 +1,2 @@
-class FancyDance 
+class FancyDance
 end
