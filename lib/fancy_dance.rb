@@ -1,4 +1,7 @@
 module FancyDance
+  module InstanceMethods
+    
+  end
   
   module ClassMethods
     "This class produces objects that love to dance."
