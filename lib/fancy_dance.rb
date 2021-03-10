@@ -1,2 +1,2 @@
-class FancyDance
+module FancyDance
 end
