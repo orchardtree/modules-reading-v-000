@@ -6,4 +6,6 @@ module Dance
   def jump 
     "Look how high I'm jumping!"
   end
+  
+  def 
 end
